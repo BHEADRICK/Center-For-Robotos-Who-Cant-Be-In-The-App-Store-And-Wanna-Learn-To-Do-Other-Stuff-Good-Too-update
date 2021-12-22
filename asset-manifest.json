@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/css/main.fc7557a8.chunk.css",
-    "main.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/main.d7ed8e1e.chunk.js",
-    "main.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/main.d7ed8e1e.chunk.js.map",
-    "runtime-main.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/runtime-main.a983e4db.js",
-    "runtime-main.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/runtime-main.a983e4db.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.436754dc.chunk.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/2.436754dc.chunk.js",
-    "static/js/2.436754dc.chunk.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/2.436754dc.chunk.js.map",
-    "index.html": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/index.html",
-    "precache-manifest.b1ebf5ccf4806dabb64f148be70b50bb.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/precache-manifest.b1ebf5ccf4806dabb64f148be70b50bb.js",
-    "service-worker.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.fc7557a8.chunk.css.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/css/main.fc7557a8.chunk.css.map",
-    "static/js/2.436754dc.chunk.js.LICENSE.txt": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/js/2.436754dc.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/robofriends/static/css/main.70cdb2b4.chunk.css",
+    "main.js": "/robofriends/static/js/main.d2373d9c.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.d2373d9c.chunk.js.map",
+    "runtime-main.js": "/robofriends/static/js/runtime-main.bfa736df.js",
+    "runtime-main.js.map": "/robofriends/static/js/runtime-main.bfa736df.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/robofriends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.be0e340d.chunk.js": "/robofriends/static/js/2.be0e340d.chunk.js",
+    "static/js/2.be0e340d.chunk.js.map": "/robofriends/static/js/2.be0e340d.chunk.js.map",
+    "index.html": "/robofriends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/robofriends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.70cdb2b4.chunk.css.map": "/robofriends/static/css/main.70cdb2b4.chunk.css.map",
+    "static/js/2.be0e340d.chunk.js.LICENSE.txt": "/robofriends/static/js/2.be0e340d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robofriends/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.a983e4db.js",
-    "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.436754dc.chunk.js",
-    "static/css/main.fc7557a8.chunk.css",
-    "static/js/main.d7ed8e1e.chunk.js"
+    "static/js/runtime-main.bfa736df.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.be0e340d.chunk.js",
+    "static/css/main.70cdb2b4.chunk.css",
+    "static/js/main.d2373d9c.chunk.js"
   ]
 }
